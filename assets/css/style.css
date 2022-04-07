@@ -1,10 +1,25 @@
 body {
     color: white;
     background-color: black;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'DM Serif Display', sans-serif;
+    font-size: 25px;
+}
+
+h1.titles-pag {
+    font-size: 33px;
 }
 
 #quienes-somos {
     background-color: black;
+}
+
+i {
+    font-size: 27px;
 }
 
 hr {
@@ -13,6 +28,10 @@ hr {
 }
 
 .quiensom1 {
+    background-color: #0dcaf0;
+}
+
+.card {
     background-color: #0dcaf0;
 }
 
