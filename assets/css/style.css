@@ -1,3 +1,25 @@
+body {
+    color: white;
+    background-color: black;
+}
+
 #quienes-somos {
     background-color: black;
+}
+
+hr {
+    color: grey;
+    opacity: 0.2;
+}
+
+.quiensom1 {
+    background-color: #0dcaf0;
+}
+
+#footer {
+    background-color: #0dcaf0;
+}
+
+.footer1 {
+    text-align: j;
 }
