@@ -14,6 +14,10 @@ h1.titles-pag {
     font-size: 33px;
 }
 
+html {
+    scroll-behavior: auto !important;
+}
+
 #quienes-somos {
     background-color: black;
 }
@@ -32,6 +36,10 @@ hr {
 }
 
 .card {
+    background-color: #0dcaf0;
+}
+
+.btn {
     background-color: #0dcaf0;
 }
 
