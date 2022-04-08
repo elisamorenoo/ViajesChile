@@ -10,7 +10,8 @@ h1 {
     font-size: 25px;
 }
 
-h1.titles-pag {
+h1.titles-pag,
+h1.titles-pag1 {
     font-size: 33px;
 }
 
@@ -41,6 +42,10 @@ hr {
 
 .btn {
     background-color: #0dcaf0;
+}
+
+.popover {
+    color: black!important;
 }
 
 #footer {

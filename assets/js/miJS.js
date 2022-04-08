@@ -50,4 +50,11 @@ $(document).ready(function() {
         return new bootstrap.Popover(popoverTriggerEl)
     })
 
+
+    //evento toggle contenido tarjetas
+    $("h1.titles-pag1").click(function() {
+        $("p.text-qs").toggle();
+    });
+
+
 })
